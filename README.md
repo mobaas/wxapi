@@ -1,12 +1,10 @@
 # wxapi
 
-#### 项目介绍
+#### 介绍
 微信公众号API Java实现。
 
-#### 软件架构
-软件架构说明
-
-![软件架构说明](https://raw.githubusercontent.com/mobaas/wxapi/master/architecture.png "architecture.png")
+#### 架构
+![架构说明](https://raw.githubusercontent.com/mobaas/wxapi/master/architecture.png "architecture.png")
 
 #### 使用示例
 
