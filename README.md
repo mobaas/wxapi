@@ -6,7 +6,7 @@
 #### 软件架构
 软件架构说明
 
-![软件架构说明](https://images.gitee.com/uploads/images/2018/1028/233148_897fe1d5_1595980.png "architecture.png")
+![软件架构说明](https://raw.githubusercontent.com/mobaas/wxapi/master/architecture.png "architecture.png")
 
 #### 使用示例
 
